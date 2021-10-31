@@ -69,9 +69,7 @@
         ],
         "tagline": "Marketer & Front-End Devolper"
     },
-    "footer": {
-        "content": "adasdasdasdas"
-    },
+    "footer": {},
     "domain": "https://andyreinoza.netlify.app",
     "favicon": "/images/Sin título-4.png"
 }
